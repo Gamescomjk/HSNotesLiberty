@@ -7,11 +7,10 @@
         "id": "204b6c054ab94ce1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "Math/Unit Math Index.md",
-            "mode": "source",
-            "source": false
+            "file": ".obsidian/workspace",
+            "staged": false
           }
         }
       }
@@ -77,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit Math Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,13 +93,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "42b19294fd00d72c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "204b6c054ab94ce1",
   "lastOpenFiles": [

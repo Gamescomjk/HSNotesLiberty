@@ -7,10 +7,12 @@
         "id": "204b6c054ab94ce1",
         "type": "leaf",
         "state": {
-          "type": "diff-view",
+          "type": "markdown",
           "state": {
-            "file": ".obsidian/workspace",
-            "staged": false
+            "file": "ILA/Unit ILA.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -76,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ILA/Unit ILA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ILA/Unit ILA.md"
+              }
             }
           },
           {
@@ -102,8 +107,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,8 +115,8 @@
   },
   "active": "204b6c054ab94ce1",
   "lastOpenFiles": [
-    "Math/Unit Math Index.md",
     "ILA/Unit ILA.md",
+    "Math/Unit Math Index.md",
     "History/Unit History.md",
     "Science/Unit Science Index.md",
     "Main.md",

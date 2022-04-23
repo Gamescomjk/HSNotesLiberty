@@ -1,18 +1,54 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Science",
+      "color": {
+        "a": 1,
+        "rgb": 4509518
+      }
+    },
+    {
+      "query": "path:History",
+      "color": {
+        "a": 1,
+        "rgb": 15307071
+      }
+    },
+    {
+      "query": "path:Math",
+      "color": {
+        "a": 1,
+        "rgb": 4102106
+      }
+    },
+    {
+      "query": "path:ILA",
+      "color": {
+        "a": 1,
+        "rgb": 14554903
+      }
+    },
+    {
+      "query": "path:Electives",
+      "color": {
+        "a": 1,
+        "rgb": 5917395
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "nodeSizeMultiplier": 1.12083333333333,
+  "lineSizeMultiplier": 1.26666666666667,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,

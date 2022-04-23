@@ -1,3 +1,22 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian",
+  "obsidian-annotator",
+  "better-word-count",
+  "calendar",
+  "obsidian-checklist-plugin",
+  "obsidian-citation-plugin",
+  "dataview",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin",
+  "file-tree-alternative",
+  "markdown-prettifier",
+  "obsidian-mind-map",
+  "nldates-obsidian",
+  "obsidian-outliner",
+  "url-into-selection",
+  "sliding-panes-obsidian",
+  "obsidian-style-settings",
+  "tag-wrangler",
+  "templater-obsidian"
 ]

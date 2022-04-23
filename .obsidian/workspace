@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9264c2b1ad0ae25",
+        "id": "fe9d2d33ad3775d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Main.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -57,6 +52,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "622230decd8dd496",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main.md"
-              }
+              "state": {}
             }
           },
           {
@@ -106,16 +106,41 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "5ba5faa636dd3dc2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "78768e8c32558328",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "ead5e069dd989e6d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d9264c2b1ad0ae25",
+  "active": "fe9d2d33ad3775d7",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-04-22 20.10.09.excalidraw.md",
     "Main.md",
     "Science/Unit 1 -/Unit 1 Science - 1.md",
     "Science/Unit Science Index.md",
@@ -124,7 +149,6 @@
     "Electives/Elective 1/Elective 1 Index.md",
     "ILA/Unit 1/Unit 1 ILA.md",
     "ILA/Unit ILA Index.md",
-    "History/Unit 1/Unit 1 History-.md",
-    "History/Unit History.md"
+    "History/Unit 1/Unit 1 History-.md"
   ]
 }

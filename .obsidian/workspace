@@ -7,13 +7,8 @@
         "id": "fe9d2d33ad3775d7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Science/Unit Science Index.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Unit Science Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Unit Science Index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -148,15 +140,15 @@
   },
   "active": "fe9d2d33ad3775d7",
   "lastOpenFiles": [
-    "Science/Unit Science Index.md",
     "Main.md",
+    "Math/Unit 1/Unit 1 math-.md",
+    "Science/Unit Science Index.md",
     "Excalidraw/Drawing 2022-04-22 20.10.09.excalidraw.md",
     "Science/Unit 1 -/Unit 1 Science - 1.md",
     "Math/Unit Math Index.md",
     "Electives/Elective 1/Elective 1 unit 1/Elective 1 Unit 1 -.md",
     "Electives/Elective 1/Elective 1 Index.md",
     "ILA/Unit 1/Unit 1 ILA.md",
-    "ILA/Unit ILA Index.md",
-    "History/Unit 1/Unit 1 History-.md"
+    "ILA/Unit ILA Index.md"
   ]
 }

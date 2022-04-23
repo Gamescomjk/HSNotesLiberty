@@ -3,5 +3,6 @@
   "livePreview": true,
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Attachemnts"
 }

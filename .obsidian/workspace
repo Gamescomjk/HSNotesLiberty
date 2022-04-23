@@ -7,8 +7,13 @@
         "id": "d9264c2b1ad0ae25",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Main.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Main.md"
+              }
             }
           },
           {
@@ -104,19 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369
   },
   "active": "d9264c2b1ad0ae25",
   "lastOpenFiles": [
     "Main.md",
-    "Electives/Elective 1/Elective 1 Index.md",
-    "Electives/Elective 1/Elective 1 unit 1/Elective 1 Unit 1 -.md",
-    "History/Unit History.md",
-    "ILA/Unit ILA Index.md",
-    "ILA/Unit 1/Unit 1 ILA.md",
-    "History/Unit 1/Unit 1 History-.md",
-    "Math/Unit 1/Unit 1 math-.md",
+    "Science/Unit 1 -/Unit 1 Science - 1.md",
+    "Science/Unit Science Index.md",
     "Math/Unit Math Index.md",
-    "Science/Unit Science Index.md"
+    "Electives/Elective 1/Elective 1 unit 1/Elective 1 Unit 1 -.md",
+    "Electives/Elective 1/Elective 1 Index.md",
+    "ILA/Unit 1/Unit 1 ILA.md",
+    "ILA/Unit ILA Index.md",
+    "History/Unit 1/Unit 1 History-.md",
+    "History/Unit History.md"
   ]
 }

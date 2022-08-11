@@ -7,8 +7,10 @@
         "id": "6c25b55056b102b3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "Science/Biology/Scientific Method.ppt.pdf"
+          }
         }
       }
     ],
@@ -89,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Biology/Scientific Method.ppt.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science/Biology/Scientific Method.ppt.pdf"
+              }
             }
           },
           {

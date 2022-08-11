@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5f7a3502fa5292af",
+        "id": "6c25b55056b102b3",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -129,17 +129,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d2e8f8e84a8b3ca2",
+  "active": "6c25b55056b102b3",
   "lastOpenFiles": [
-    "Math/Unit Math Index.md",
-    "History/AP Human Geography.md",
-    "Electives/Audio Video Prod 1/Audio Video Prod 1.md",
+    "Science/Biology/Untitled.md",
     "Main.md",
+    "History/AP Human Geography.md",
+    "Science/Biology/Unit 1 Science - 1.md",
+    "ILA/English 1 Adv.md",
+    "Math/Unit Math Index.md",
+    "Electives/Audio Video Prod 1/Audio Video Prod 1.md",
     "Math Index.md",
     "Excalidraw/Drawing 2022-08-10 20.16.00.excalidraw.md",
-    "Math/Unit 1/Unit 1 math-.md",
-    "Science/Unit Science Index.md",
-    "Excalidraw/Drawing 2022-04-22 20.10.09.excalidraw.md",
-    "Science/Unit 1 -/Unit 1 Science - 1.md"
+    "Math/Unit 1/Unit 1 math-.md"
   ]
 }

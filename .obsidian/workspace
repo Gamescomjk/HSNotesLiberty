@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -103,8 +104,11 @@
             "id": "42b19294fd00d72c",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/app.json",
+                "staged": false
+              }
             }
           },
           {
@@ -138,7 +142,7 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "fe9d2d33ad3775d7",
+  "active": "622230decd8dd496",
   "lastOpenFiles": [
     "Main.md",
     "Math/Unit 1/Unit 1 math-.md",

@@ -1,8 +1,7 @@
 ## A Random Group of people Notes for High School
 
 
-
-[[Unit Math Index]]
+[[Unit 1 math-]]
 [[Unit History]]
 [[Unit ILA Index]]
 [[Unit Science Index]]

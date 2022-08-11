@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fe9d2d33ad3775d7",
+        "id": "1515ab0bb17559e7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Main.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -27,6 +32,14 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a13e9f2e49ff1f70",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
               "state": {}
             }
           },
@@ -57,12 +70,11 @@
             "id": "622230decd8dd496",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +110,8 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "42b19294fd00d72c",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
               "state": {
-                "file": ".obsidian/app.json",
-                "staged": false
+                "file": "Main.md"
               }
             }
           },
@@ -120,14 +124,6 @@
             }
           },
           {
-            "id": "78768e8c32558328",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "ead5e069dd989e6d",
             "type": "leaf",
             "state": {
@@ -135,24 +131,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 369
   },
-  "active": "622230decd8dd496",
+  "active": "1515ab0bb17559e7",
   "lastOpenFiles": [
+    "Math/Unit Math Index.md",
     "Main.md",
+    "Math Index.md",
+    "Excalidraw/Drawing 2022-08-10 20.16.00.excalidraw.md",
     "Math/Unit 1/Unit 1 math-.md",
     "Science/Unit Science Index.md",
     "Excalidraw/Drawing 2022-04-22 20.10.09.excalidraw.md",
     "Science/Unit 1 -/Unit 1 Science - 1.md",
-    "Math/Unit Math Index.md",
     "Electives/Elective 1/Elective 1 unit 1/Elective 1 Unit 1 -.md",
-    "Electives/Elective 1/Elective 1 Index.md",
-    "ILA/Unit 1/Unit 1 ILA.md",
-    "ILA/Unit ILA Index.md"
+    "Electives/Elective 1/Elective 1 Index.md"
   ]
 }

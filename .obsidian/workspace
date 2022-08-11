@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c25b55056b102b3",
+        "id": "d361f82695adec32",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Biology/Unit 1/Unit 1 Learning Targets.md"
-              }
+              "state": {}
             }
           },
           {
@@ -138,8 +130,9 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "6c25b55056b102b3",
+  "active": "d361f82695adec32",
   "lastOpenFiles": [
+    "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
     "Math/Geometry/Unit 1/Untitled.md",
     "Math/Algebra 2/Unit 1/Untitled.md",
     "Math/Algebra 1/Unit 1/Untitled.md",
@@ -148,7 +141,6 @@
     "Electives/Outdoor Education/Untitled.md",
     "Electives/Audio Video Prod 1/Untitled.md",
     "Electives/3d Modeling & Animation/Unit 1/Untitled.md",
-    "Science/Biology/Unit 1/Scientific Method.ppt.pdf",
-    "Science/Biology/Untitled.md"
+    "Science/Biology/Unit 1/Scientific Method.ppt.pdf"
   ]
 }

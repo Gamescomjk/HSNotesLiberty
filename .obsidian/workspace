@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -127,6 +128,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "d95bc346b5ebc132",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -135,7 +144,7 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d361f82695adec32",
+  "active": "d95bc346b5ebc132",
   "lastOpenFiles": [
     "Science/Biology/Unit 1/Scientific Method.ppt.pdf",
     "Science/Biology/Unit 1/Unit 1 Learning Targets(1).docx.pdf",

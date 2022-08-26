@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d361f82695adec32",
+        "id": "76c0efcc0f546e14",
         "type": "leaf",
         "state": {
-          "type": "pdf",
-          "state": {
-            "file": "Science/Biology/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Science/Biology/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -144,8 +139,10 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d95bc346b5ebc132",
+  "active": "76c0efcc0f546e14",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-08-13 10.47.43.excalidraw.md",
+    "Science/Biology/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf",
     "Science/Biology/Unit 1/Scientific Method.ppt.pdf",
     "Science/Biology/Unit 1/Unit 1 Learning Targets(1).docx.pdf",
     "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
@@ -153,8 +150,6 @@
     "Math/Algebra 2/Unit 1/Untitled.md",
     "Math/Algebra 1/Unit 1/Untitled.md",
     "ILA/English 1 Adv/Unit 1/Untitled.md",
-    "History/AP Human Geography/Unit 1/Untitled.md",
-    "Electives/Outdoor Education/Untitled.md",
-    "Electives/Audio Video Prod 1/Untitled.md"
+    "History/AP Human Geography/Unit 1/Untitled.md"
   ]
 }

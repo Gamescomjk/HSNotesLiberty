@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "882ea03684b17cbc",
+        "id": "6d71a2b7467e779e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md"
+              }
             }
           },
           {
@@ -138,17 +146,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "882ea03684b17cbc",
+  "active": "6d71a2b7467e779e",
   "lastOpenFiles": [
-    "Science/Biology (Cowger)/Unit 1/Unit 1 Learning Targets(1).docx.pdf",
-    "Science/Biology (Cowger)/Untitled.md",
-    "Science/Biology (Cowger)/Unit 1/Notebook/8_10 & 8_11.md",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Lab Safety.pdf",
     "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
-    "Science/Biology (Cowger)/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf",
-    "Science/Biology (Cowger)/Unit 1/Scientific Method.ppt.pdf",
-    "Main.md",
-    "Electives/3d Modeling & Animation/Unit 1/Photoshop/JeelG_PhotoshopLesson2.png",
-    "Electives/3d Modeling & Animation/Unit 1/Photoshop/JeelG_PhotoshopLesson1.png",
-    "Electives/3d Modeling & Animation/Unit 1/Photoshop/House edited.png"
+    "().md",
+    "Science/Biology (Cowger)/Unit 1/Notebook/8_10 & 8_11.md",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/PAP Parts of an Experiment.pdf",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Practice - Experimental Design.pdf",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Scientific Method.ppt.pdf",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Unit 1 Learning Targets(1).docx.pdf",
+    "[Read.md",
+    "Science/Biology (Cowger)/Untitled.md"
   ]
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md",
+            "file": "Science/Biology/Unit 1/Notebook/8_12 & 8_15.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md",
+                "file": "Science/Biology/Unit 1/Notebook/8_12 & 8_15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md"
+                "file": "Science/Biology/Unit 1/Notebook/8_12 & 8_15.md"
               }
             }
           },
@@ -138,9 +138,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "f73c4ceefebb0c77",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -148,15 +156,15 @@
   },
   "active": "d2e8f8e84a8b3ca2",
   "lastOpenFiles": [
-    "Science/Biology (Cowger)/Biomolucules/Notebook/8_18 & 8_19.md",
-    "Science/Biology (Cowger)/Biomolucules/Notebook/8_17 & 8_18.md",
-    "Science/Biology (Cowger)/Biomolucules/Notebook/8_12 & 8_15.md",
-    "Science/Biology (Cowger)/Biomolucules/Notebook/8_10 & 8_11.md",
-    "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md",
-    "Science/Biology (Cowger)/Biomolucules/Pdfs and stuff/Canvas Page Of Dietary Plan.md",
-    "Excalidraw/Drawing 2022-08-26 22.52.00.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-26 22.52.00_0.excalidraw.md",
+    "Science/Biology/Unit 1/Notebook/8_10 & 8_11.md",
+    "Science/Biology/Unit 1/Pdfs and stuff/Practice - Experimental Design.pdf",
     "Main.md",
-    "().md"
+    "Science/Biology/Unit 1/Notebook/Group Project 1.md",
+    "Science/Biology/Unit 1/Notebook/8_18 & 8_19.md",
+    "Science/Biology/Unit 1/Notebook/8_17 & 8_18.md",
+    "Science/Biology/Unit 1/Notebook/8_12 & 8_15.md",
+    "Science/Biology/Unit 1/Pdfs and stuff/Canvas Page Of Dietary Plan.md",
+    "Excalidraw/Drawing 2022-08-26 22.52.00.excalidraw.md",
+    "Excalidraw/Drawing 2022-08-26 22.52.00_0.excalidraw.md"
   ]
 }

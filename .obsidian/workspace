@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "76c0efcc0f546e14",
+        "id": "226b7bb3b5e8b5b5",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -139,8 +139,10 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "76c0efcc0f546e14",
+  "active": "226b7bb3b5e8b5b5",
   "lastOpenFiles": [
+    "ILA/English 1 Adv/Unit 1/Untitled.md",
+    "Excalidraw/Drawing 2022-08-25 20.12.54.excalidraw.md",
     "Excalidraw/Drawing 2022-08-13 10.47.43.excalidraw.md",
     "Science/Biology/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf",
     "Science/Biology/Unit 1/Scientific Method.ppt.pdf",
@@ -148,8 +150,6 @@
     "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
     "Math/Geometry/Unit 1/Untitled.md",
     "Math/Algebra 2/Unit 1/Untitled.md",
-    "Math/Algebra 1/Unit 1/Untitled.md",
-    "ILA/English 1 Adv/Unit 1/Untitled.md",
-    "History/AP Human Geography/Unit 1/Untitled.md"
+    "Math/Algebra 1/Unit 1/Untitled.md"
   ]
 }

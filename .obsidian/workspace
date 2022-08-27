@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "542c97e2ebe8a973",
+        "id": "882ea03684b17cbc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md"
-              }
+              "state": {}
             }
           },
           {
@@ -146,17 +138,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d2e8f8e84a8b3ca2",
+  "active": "882ea03684b17cbc",
   "lastOpenFiles": [
-    "Electives/3d Modeling & Animation/Unit 1/Untitled.md",
-    "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
-    "ILA/English 1 Adv/Unit 1/Untitled.md",
-    "Excalidraw/Drawing 2022-08-25 20.12.54.excalidraw.md",
-    "Excalidraw/Drawing 2022-08-13 10.47.43.excalidraw.md",
-    "Science/Biology/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf",
-    "Science/Biology/Unit 1/Scientific Method.ppt.pdf",
-    "Science/Biology/Unit 1/Unit 1 Learning Targets(1).docx.pdf",
-    "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
-    "Math/Geometry/Unit 1/Untitled.md"
+    "Science/Biology (Cowger)/Unit 1/Unit 1 Learning Targets(1).docx.pdf",
+    "Science/Biology (Cowger)/Untitled.md",
+    "Science/Biology (Cowger)/Unit 1/Notebook/8_10 & 8_11.md",
+    "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
+    "Science/Biology (Cowger)/Unit 1/UNIT 1 VOCAB MASTERY.docx.pdf",
+    "Science/Biology (Cowger)/Unit 1/Scientific Method.ppt.pdf",
+    "Main.md",
+    "Electives/3d Modeling & Animation/Unit 1/Photoshop/JeelG_PhotoshopLesson2.png",
+    "Electives/3d Modeling & Animation/Unit 1/Photoshop/JeelG_PhotoshopLesson1.png",
+    "Electives/3d Modeling & Animation/Unit 1/Photoshop/House edited.png"
   ]
 }

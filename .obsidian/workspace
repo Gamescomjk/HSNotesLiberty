@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6d71a2b7467e779e",
+        "id": "71633353c4d864da",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
+            "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_18 & 8_19.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
+                "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_18 & 8_19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md"
+                "file": "Science/Biology (Cowger)/Unit 1/Notebook/8_18 & 8_19.md"
               }
             }
           },
@@ -146,17 +146,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "6d71a2b7467e779e",
+  "active": "71633353c4d864da",
   "lastOpenFiles": [
-    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Lab Safety.pdf",
+    "Science/Biology (Cowger)/Unit 1/Notebook/8_17 & 8_18.md",
     "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md",
-    "().md",
     "Science/Biology (Cowger)/Unit 1/Notebook/8_10 & 8_11.md",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Scientific Fact Vs Theory.md",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Scientific Fact Vs Theory 1.md",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/The Nature and Limits of Science and Experimental Design EXPLAIN.pdf",
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Lab Safety.pdf",
+    "().md",
     "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/PAP Parts of an Experiment.pdf",
-    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Practice - Experimental Design.pdf",
-    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Scientific Method.ppt.pdf",
-    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Unit 1 Learning Targets(1).docx.pdf",
-    "[Read.md",
-    "Science/Biology (Cowger)/Untitled.md"
+    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Practice - Experimental Design.pdf"
   ]
 }

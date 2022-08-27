@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "45daea4a395f50de",
+        "id": "a1c8c7c4827ccb1f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -69,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md"
+              }
             }
           },
           {
@@ -139,17 +146,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "45daea4a395f50de",
+  "active": "d2e8f8e84a8b3ca2",
   "lastOpenFiles": [
-    "Main.md",
-    "().md",
-    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/pasted image 0.png",
-    "Science/Biology (Cowger)/Unit 1/Pdfs and stuff/Canvas Page Of Dietary Plan.md",
-    "Excalidraw/Drawing 2022-08-26 22.52.00_0.excalidraw.md",
+    "Science/Biology (Cowger)/Biomolucules/Notebook/8_18 & 8_19.md",
+    "Science/Biology (Cowger)/Biomolucules/Notebook/8_17 & 8_18.md",
+    "Science/Biology (Cowger)/Biomolucules/Notebook/8_12 & 8_15.md",
+    "Science/Biology (Cowger)/Biomolucules/Notebook/8_10 & 8_11.md",
+    "Science/Biology (Cowger)/Biomolucules/Notebook/Group Project 1.md",
+    "Science/Biology (Cowger)/Biomolucules/Pdfs and stuff/Canvas Page Of Dietary Plan.md",
     "Excalidraw/Drawing 2022-08-26 22.52.00.excalidraw.md",
-    "Science/Biology (Cowger)/Unit 1/Notebook/Group Project 1.md",
-    "Science/Biology (Cowger)/Unit 1/Notebook/8_18 & 8_19.md",
-    "Science/Biology (Cowger)/Unit 1/Notebook/8_17 & 8_18.md",
-    "Science/Biology (Cowger)/Unit 1/Notebook/8_12 & 8_15.md"
+    "Excalidraw/Drawing 2022-08-26 22.52.00_0.excalidraw.md",
+    "Main.md",
+    "().md"
   ]
 }

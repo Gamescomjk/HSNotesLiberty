@@ -7,8 +7,13 @@
         "id": "542c97e2ebe8a973",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md"
+              }
             }
           },
           {
@@ -140,6 +148,7 @@
   },
   "active": "d2e8f8e84a8b3ca2",
   "lastOpenFiles": [
+    "Electives/3d Modeling & Animation/Unit 1/Untitled.md",
     "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
     "ILA/English 1 Adv/Unit 1/Untitled.md",
     "Excalidraw/Drawing 2022-08-25 20.12.54.excalidraw.md",
@@ -148,7 +157,6 @@
     "Science/Biology/Unit 1/Scientific Method.ppt.pdf",
     "Science/Biology/Unit 1/Unit 1 Learning Targets(1).docx.pdf",
     "Science/Biology/Unit 1/Unit 1 Learning Targets.md",
-    "Math/Geometry/Unit 1/Untitled.md",
-    "Math/Algebra 2/Unit 1/Untitled.md"
+    "Math/Geometry/Unit 1/Untitled.md"
   ]
 }

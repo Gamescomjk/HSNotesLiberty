@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#excalidraw",
+                "query": "experimenta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 512.5
   },
   "right": {
     "id": "aaa82fcb9db41df1",
@@ -154,17 +154,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d2e8f8e84a8b3ca2",
+  "active": "a1c8c7c4827ccb1f",
   "lastOpenFiles": [
-    "Main.md",
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Practice - Experimental Design.pdf",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Equipment Scavenger Hunt (left side of the room).pdf",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Polymerization Practice.pdf",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Identifying Carbohydrates and Lipids.pdf",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Carbohydrates and Lipids Practice.pdf",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Advanced Biology-Cricket Chirp Graphing.pdf",
-    "History/AP Human Geography/Unit 1/Untitled.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_12 & 8_15.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_17 & 8_18.md"
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Biomoleculesppt.ppt.pdf",
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Advanced Biology-Cricket Chirp Graphing.pdf",
+    "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/PAP Parts of an Experiment.pdf",
+    "Science/Biology (Cowger)/Biomolecules/Notebook/8_18 & 8_19.md",
+    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Metric Measurement Lab with Lab Equiptment.pdf"
   ]
 }

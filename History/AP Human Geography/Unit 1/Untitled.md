@@ -1,1 +1,1 @@
-##note taking strategies
+# Note Taking Strategies

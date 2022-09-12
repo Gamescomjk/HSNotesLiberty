@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/AP Human Geography/Unit 0/Unit 0 Calender.md",
+            "file": "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 512.5,
+    "collapsed": true
   },
   "right": {
     "id": "aaa82fcb9db41df1",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/AP Human Geography/Unit 0/Unit 0 Calender.md",
+                "file": "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/AP Human Geography/Unit 0/Unit 0 Calender.md"
+                "file": "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md"
               }
             }
           },
@@ -157,14 +158,14 @@
   "active": "ad13bd46e3dc9afe",
   "lastOpenFiles": [
     "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
+    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Scientific Fact Vs Theory.md",
+    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
+    "History/AP Human Geography/Unit 0/Unit 0 Calender.md",
     "google.com.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_18 & 8_19.md",
     "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Carbohydrates and Lipids Practice.pdf",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_17 & 8_18.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_12 & 8_15.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Hypothesis Theory Fact Belief Law Activity.pdf",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
-    "().md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Practice - Experimental Design.pdf"
+    "Science/Biology (Cowger)/Biomolecules/Notebook/8_12 & 8_15.md"
   ]
 }

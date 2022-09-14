@@ -15,6 +15,17 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "c5a25fbd87034431",
+        "type": "leaf",
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "file": ".obsidian/workspace",
+            "staged": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -155,17 +166,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "836b4a01b3a101db",
+  "active": "c5a25fbd87034431",
   "lastOpenFiles": [
-    "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
     "conflict-files-obsidian-git.md",
+    "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
+    "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
     "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/PAP Parts of an Experiment.pdf",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_17 & 8_18.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_18 & 8_19.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_12 & 8_15.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Practice - Experimental Design.pdf",
-    "Main.md"
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Practice - Experimental Design.pdf"
   ]
 }

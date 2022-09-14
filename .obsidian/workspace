@@ -15,17 +15,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "c5a25fbd87034431",
-        "type": "leaf",
-        "state": {
-          "type": "diff-view",
-          "state": {
-            "file": ".obsidian/workspace",
-            "staged": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "c5a25fbd87034431",
+  "active": "836b4a01b3a101db",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",

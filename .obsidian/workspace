@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
+            "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
+                "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md"
+                "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md"
               }
             }
           },
@@ -157,15 +156,15 @@
   },
   "active": "836b4a01b3a101db",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
     "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914092102.png",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091821.png",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091823.png",
+    "conflict-files-obsidian-git.md",
     "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
     "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/PAP Parts of an Experiment.pdf",
     "Science/Biology (Cowger)/Biomolecules/Notebook/8_17 & 8_18.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_18 & 8_19.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_12 & 8_15.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Practice - Experimental Design.pdf"
+    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md"
   ]
 }

@@ -4,16 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "836b4a01b3a101db",
+        "id": "7a69af44fc9efc95",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +146,10 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "836b4a01b3a101db",
+  "active": "7a69af44fc9efc95",
   "lastOpenFiles": [
+    "Math/Algebra 2/Unit 1/Untitled.md",
+    "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
     "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
     "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914092102.png",
@@ -163,8 +157,6 @@
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091823.png",
     "conflict-files-obsidian-git.md",
     "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/PAP Parts of an Experiment.pdf",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_17 & 8_18.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md"
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/PAP Parts of an Experiment.pdf"
   ]
 }

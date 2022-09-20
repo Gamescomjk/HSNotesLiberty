@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           }
@@ -74,11 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 515.5
   },
   "right": {
     "id": "aaa82fcb9db41df1",
@@ -154,7 +155,7 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "d2e8f8e84a8b3ca2",
+  "active": "ad13bd46e3dc9afe",
   "lastOpenFiles": [
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091639.png",
     "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",

@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "1dcc31d014bdc855",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f397ebcbc9a2100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a69af44fc9efc95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "14364c7e8c6b2fd6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ed85612372bb0c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d30cf18704cf93c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2e8f8e84a8b3ca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "a13e9f2e49ff1f70",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e4b3ba3714436ca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "adfd859d14fa7f2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "622230decd8dd496",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaa82fcb9db41df1",
+    "type": "split",
+    "children": [
+      {
+        "id": "185fbfba1b628df4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7181b08bd608ff56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5aa68d88515cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5ba5faa636dd3dc2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ead5e069dd989e6d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d95bc346b5ebc132",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "f73c4ceefebb0c77",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "14364c7e8c6b2fd6",
+  "lastOpenFiles": [
+    "Math/Algebra 2/Unit 1/Untitled.md",
+    "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
+    "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
+    "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914092102.png",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091821.png",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091823.png",
+    "conflict-files-obsidian-git.md",
+    "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/PAP Parts of an Experiment.pdf"
+  ]
+}

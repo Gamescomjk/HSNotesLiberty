@@ -1,5 +1,9 @@
 {
   "theme": "obsidian",
+<<<<<<< HEAD
   "accentColor": "",
   "baseFontSize": 16
+=======
+  "accentColor": ""
+>>>>>>> origin/master
 }

@@ -34,3 +34,16 @@ Hull identification number
 
 13. Does your Dad have to wear a PFD to drive a PWC?
 
+14. Does your Dad have to wear a PFD to drive a bass boat?
+
+15. A type 1 PFD is described as a ________________life vest. IT is designed for rough waters.
+
+16. A type __________PFD is a throw-able type.
+
+17. Is it legal to store PFD’s in a locked storage box on your boat? If not why?
+
+18. In Texas, is it legal to drink alcohol while boating?
+
+19. It is ________ to drive a boat while intoxicated. If your blood alcohol is over _____% you are BWI.
+
+20. Draw each “TYPE” of Personal Flotation Devices and give a fact about each.

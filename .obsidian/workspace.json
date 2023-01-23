@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1cbe7594c21a6c5f",
+        "id": "73efd49bf4d5497f",
         "type": "tabs",
         "children": [
           {
-            "id": "885d9fcb1b6967f6",
+            "id": "196a2af857c1a43a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "851eceed4191e55e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electives/Outdoor edu/Boat Laws 2.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "aaa82fcb9db41df1",
@@ -118,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Outdoor edu/Boat Laws 2.md",
+                "file": "Electives/Outdoor edu/Boat laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electives/Outdoor edu/Boat Laws 2.md"
+                "file": "Electives/Outdoor edu/Boat laws.md"
               }
             }
           },
@@ -178,17 +163,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "851eceed4191e55e",
+  "active": "196a2af857c1a43a",
   "lastOpenFiles": [
-    "Electives/Outdoor edu/Boat Laws 1.md",
     "Electives/Outdoor edu/Boat laws.md",
+    "Electives/Outdoor edu/Boat Laws 2.md",
+    "Electives/Outdoor edu/Boat Laws 1.md",
     "conflict-files-obsidian-git.md",
     "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091531.png",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091639.png",
     "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
     "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Scientific Fact Vs Theory.md"
+    "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md"
   ]
 }

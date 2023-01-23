@@ -153,9 +153,17 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "6b205cefe6d67824",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",

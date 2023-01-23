@@ -18,15 +18,16 @@ age.
 8. It is illegal to operate a PWC before SunRise and after Sun Set.
 9.Vessel operators must render whatever S ____________________is necessary to any
 person involved in a boating accident unless it endangers your life.
-10.Vessel operators must report an acc ident by the quickest means if it involves:
+
+10. Vessel operators must report an acc ident by the quickest means if it involves:
 	a. Report accident 
 	b. Resulates in death
 	c. INjuries to a person 
 	d. Causes damgae to the vessel of 2000.
 11. As an owner of a PWC, it is ____________ for you to allow anyone else to
-______________________ your ___________ in such a way that it violates the laws of
-your state.
-Situations
+______________________ your ___________ in such a way that it violates the laws of your state.
+
+## **Situations**
 
 12. Your family has a 27 foot pleasure boat and it has a mirror that is 4 x 4 inches.
 You and your dad go water skiing. Does your dad need to have an “observer” in the

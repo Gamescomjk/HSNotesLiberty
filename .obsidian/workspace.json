@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electives/Outdoor edu/Boat Laws 1.md",
+                "file": "Electives/Outdoor edu/Boat Laws 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aaa82fcb9db41df1",
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Outdoor edu/Boat Laws 1.md",
+                "file": "Electives/Outdoor edu/Boat Laws 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electives/Outdoor edu/Boat Laws 1.md"
+                "file": "Electives/Outdoor edu/Boat Laws 2.md"
               }
             }
           },
@@ -174,12 +175,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369
+    "width": 200,
+    "collapsed": true
   },
-  "active": "7181b08bd608ff56",
+  "active": "851eceed4191e55e",
   "lastOpenFiles": [
-    "Electives/Outdoor edu/Boat laws.md",
     "Electives/Outdoor edu/Boat Laws 1.md",
+    "Electives/Outdoor edu/Boat laws.md",
     "conflict-files-obsidian-git.md",
     "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091531.png",

@@ -24,11 +24,17 @@
             "id": "851eceed4191e55e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electives/Outdoor edu/Boat Laws 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "experimenta",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/Outdoor edu/Boat laws.md",
+                "file": "Electives/Outdoor edu/Boat Laws 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electives/Outdoor edu/Boat laws.md"
+                "file": "Electives/Outdoor edu/Boat Laws 1.md"
               }
             }
           },
@@ -171,17 +177,17 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "885d9fcb1b6967f6",
+  "active": "851eceed4191e55e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Electives/Outdoor edu/Boat laws.md",
+    "Electives/Outdoor edu/Boat Laws 1.md",
+    "conflict-files-obsidian-git.md",
     "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091531.png",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091639.png",
     "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
     "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
-    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Scientific Fact Vs Theory.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md"
+    "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Scientific Fact Vs Theory.md"
   ]
 }

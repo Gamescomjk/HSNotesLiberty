@@ -4,30 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "ad13bd46e3dc9afe",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
+        "id": "1cbe7594c21a6c5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "885d9fcb1b6967f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electives/Outdoor edu/Boat laws.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3c4000be563c68b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "59e33ae5f15ebcac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "795ea14b003af3cf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9fc16eaeac952155",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        }
-      },
-      {
-        "id": "8eef639fd82e92bd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -45,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
             }
           },
           {
@@ -108,7 +136,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,33 +177,25 @@
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "f73c4ceefebb0c77",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 369
   },
-  "active": "8eef639fd82e92bd",
+  "active": "9fc16eaeac952155",
   "lastOpenFiles": [
-    "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
     "conflict-files-obsidian-git.md",
+    "Electives/Outdoor edu/Boat laws.md",
+    "History/AP Human Geography/Unit 1/9_14  1.2  - 1.6 Maps.md",
+    "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091531.png",
     "History/AP Human Geography/Unit 1/IMAGES/Pasted image 20220914091639.png",
     "History/AP Human Geography/Unit 1/AMSCO UNIT 1 NOTES.md",
     "History/AP Human Geography/Unit 1/Note Taking Strategies.md",
     "Science/Biology (Cowger)/Biomolecules/Notebook/Group Project 1.md",
     "Science/Biology (Cowger)/Biomolecules/Pdfs and stuff/Scientific Fact Vs Theory.md",
-    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
-    "History/AP Human Geography/Unit 0/Unit 0 Calender.md",
-    "google.com.md"
+    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md"
   ]
 }

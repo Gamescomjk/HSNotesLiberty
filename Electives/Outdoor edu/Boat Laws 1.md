@@ -17,24 +17,14 @@ age.
 
 8. It is illegal to operate a PWC before SunRise and after Sun Set.
 9.Vessel operators must render whatever S ____________________is necessary to any
-person involved in a boating _________________unless it endangers your life.
-10.Vessel operators must report an accident by the quickest means if it involves:
-	a.
-	b.
-	c.
-	d.
-
-Chapter 4 part 2 Boaters Education
-Name:________________________________
-Instructor: ____________________________
-Class: ____________________
-
-© Outdoor Tomorrow Foundation is a qualified 501 (c)(3) charitable organization under IRS
-
-regulations
-
-11. As an owner of a PWC, it is _________________for you to allow anyone else to
-______________________your ___________ in such a way that it violates the laws of
+person involved in a boating accident unless it endangers your life.
+10.Vessel operators must report an acc ident by the quickest means if it involves:
+	a. Report accident 
+	b. Resulates in death
+	c. INjuries to a person 
+	d. Causes damgae to the vessel of 2000.
+11. As an owner of a PWC, it is ____________ for you to allow anyone else to
+______________________ your ___________ in such a way that it violates the laws of
 your state.
 Situations
 

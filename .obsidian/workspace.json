@@ -19,41 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d3c4000be563c68b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "59e33ae5f15ebcac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "795ea14b003af3cf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9fc16eaeac952155",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electives/Outdoor edu/Boat laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electives/Outdoor edu/Boat laws.md"
+              }
             }
           },
           {
@@ -185,7 +155,7 @@
     "direction": "horizontal",
     "width": 369
   },
-  "active": "9fc16eaeac952155",
+  "active": "885d9fcb1b6967f6",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Electives/Outdoor edu/Boat laws.md",

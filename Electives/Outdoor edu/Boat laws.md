@@ -1,9 +1,9 @@
 
 
 1. What does underway mean?
-
+Not A anchor, made for fast to shore or ground
 2. What does “HIN” stand for?
-
+Hull identification number
 3. You can legally drive a boat by yourself IF you have a boater education card and you are at least ________years old.
 
 4. Is it legal for passengers to sit on the gunwale while the boat is underway?
@@ -26,7 +26,6 @@
 
 	b.
 	
-
 	c.
 
 	d.
@@ -34,3 +33,4 @@
 12. Any boat longer than 16 feet must also have one TYPE _____PFD onboard.
 
 13. Does your Dad have to wear a PFD to drive a PWC?
+

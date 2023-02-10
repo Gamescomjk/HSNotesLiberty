@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "73efd49bf4d5497f",
+        "id": "9c796111bc729e53",
         "type": "tabs",
         "children": [
           {
-            "id": "196a2af857c1a43a",
+            "id": "4e5b1a8a173c6321",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/AP Human Geography/Unit 5/5.4 Study Guide.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/AP Human Geography/Unit 5/5.4 Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "History/AP Human Geography/Unit 5/5.4 Study Guide.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +170,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "196a2af857c1a43a",
+  "active": "4e5b1a8a173c6321",
   "lastOpenFiles": [
+    "History/AP Human Geography/Unit 5/5.4 Study Guide.md",
     "History/AP Human Geography/Unit 5/5.2 Study Guide.md",
     "History/AP Human Geography/Unit 5/5.3 Study Guide.md",
     "History/AP Human Geography/Unit 5/HGAP Unit 5 Test Review.md",
@@ -188,7 +181,6 @@
     "History/AP Human Geography/Unit 5/AMSCO Unit 5 Study Guides.md",
     "History/AP Human Geography/Unit 5/5.12 Study Guide.md",
     "History/AP Human Geography/Unit 5/5.11 Study Guide.md",
-    "History/AP Human Geography/Unit 5/5.10 Study Guide.md",
-    "History/AP Human Geography/Unit 5/5.8 Study Guide.md"
+    "History/AP Human Geography/Unit 5/5.10 Study Guide.md"
   ]
 }

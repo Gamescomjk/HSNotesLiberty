@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c796111bc729e53",
+        "id": "d252cb8fd2764547",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5b1a8a173c6321",
+            "id": "7182415d79ac8436",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,17 +178,17 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e4b3ba3714436ca6",
+  "active": "7182415d79ac8436",
   "lastOpenFiles": [
-    "Rock climbning Vocab.md",
-    "9eafbfe6af7608c0dc88b8bdad163a5d.jpg",
-    "History/AP Human Geography/Unit 5/5.4 Study Guide.md",
-    "History/AP Human Geography/Unit 5/5.2 Study Guide.md",
-    "History/AP Human Geography/Unit 5/5.3 Study Guide.md",
-    "History/AP Human Geography/Unit 5/HGAP Unit 5 Test Review.md",
-    "History/AP Human Geography/Unit 5/Mr. Sinn Unit 5 Videos.md",
-    "History/AP Human Geography/Unit 5/Unit 5 lessons.md",
-    "History/AP Human Geography/Unit 5/AMSCO Unit 5 Study Guides.md",
-    "History/AP Human Geography/Unit 5/5.12 Study Guide.md"
+    "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
+    "Electives/3d Modeling & Animation/Unit 1/Photoshop/JeelG_PhotoshopLesson2.png",
+    "Electives/3d Modeling & Animation/Unit 1/Photoshop/JeelG_PhotoshopLesson1.png",
+    "Electives/3d Modeling & Animation/Unit 1/Photoshop/House edited.png",
+    "Science/Biology (Cowger)/Biomolecules/Notebook/8_10 & 8_11.md",
+    "Math/Geometry/Unit 1/Untitled.md",
+    "Math/Algebra 2/Unit 1/Untitled.md",
+    "Math/Algebra 1/Unit 1/Untitled.md",
+    "History/AP Human Geography/Unit 5/5.1 Study Guide.md",
+    "History/AP Human Geography/Unit 5/Unit 5 lessons.md"
   ]
 }

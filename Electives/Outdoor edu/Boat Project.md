@@ -1,0 +1,3 @@
+- Groups of 4
+- Sketch a design for the boat
+- boat must 

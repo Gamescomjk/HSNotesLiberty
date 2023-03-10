@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a69e384bf3f252d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,7 +189,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "7182415d79ac8436",
+  "active": "1a69e384bf3f252d",
   "lastOpenFiles": [
     "Rock climbning Vocab.md",
     "Electives/Audio Video Prod 1/Story Ideas 8_26_22.md",
